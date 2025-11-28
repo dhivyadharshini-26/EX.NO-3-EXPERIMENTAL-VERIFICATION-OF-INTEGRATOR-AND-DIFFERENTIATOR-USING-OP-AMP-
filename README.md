@@ -36,13 +36,12 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
+
+![WhatsApp Image 2025-11-28 at 11 04 25_2a693620](https://github.com/user-attachments/assets/48c7c18b-a46c-4cd8-a9f4-277ce389306f)
 
 
 ## MODEL GRAPH
-<img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
-
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
+![WhatsApp Image 2025-11-28 at 11 04 25_cd219abb](https://github.com/user-attachments/assets/31fd2ff0-e888-40d0-975e-2cb2fd438c2a)
 
 ---
 
@@ -63,14 +62,15 @@ We get , R1 =	and hence Rf =
 ## TABULATION
 | Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
 |----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+| Sine Wave      |             1.68             |     380                        |        2.63                   |    1.12                       |    380                          |      2.63                      |
+| Square Wave    |            1.56              |      380                       |          2.63                 |        2.52                   |            380                  |        2.63                    |
 		
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-28 at 11 04 25_1226258e](https://github.com/user-attachments/assets/e779630e-cfa8-442b-9be3-2f3daa2dff00)
 
 ---
 **DATE:**  
@@ -109,23 +109,15 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
 
+![WhatsApp Image 2025-11-28 at 11 09 46_41331c7a](https://github.com/user-attachments/assets/f3048881-c786-4c51-a157-641cf5d353cb)
 
 
 ## MODEL GRAPH
 
-(i)	 SINE WAVE INPUT
+![WhatsApp Image 2025-11-28 at 11 09 47_ecfc47f1](https://github.com/user-attachments/assets/02c257f7-83e2-404e-bcd3-67414d6f571e)
 
-<img width="687" height="479" alt="image" src="https://github.com/user-attachments/assets/c89226c0-c2bb-4544-b355-27fc0d923f1a" />
----
-
-AND
-
-(ii) SQUARE WAVE INPUT
-
-<img width="758" height="447" alt="image" src="https://github.com/user-attachments/assets/cda33b00-c40c-490f-a9bd-e06107119c25" />
-
+![WhatsApp Image 2025-11-28 at 11 09 47_965a88f2](https://github.com/user-attachments/assets/d6315bed-27ee-46bf-8168-8d2d8b3c798f)
 
 ---
 
@@ -151,11 +143,14 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  ## TABULATION
 | Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
 |----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+| Sine Wave      |               1.56           |     380                        |        2.63                   |    1.76                       |         380                     |   2.63                         |
+| Square Wave    |              1.4            |                  380           |              2.63             |        0.7                   |          380                    |             2.63               |
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-28 at 11 09 48_05ec5932](https://github.com/user-attachments/assets/383c5332-91df-4325-b9bb-0c6ccecbdcb1)
+
+
 
 ---
 
